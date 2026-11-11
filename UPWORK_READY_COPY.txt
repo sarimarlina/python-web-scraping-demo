@@ -1,0 +1,23 @@
+PROJECT TITLE: HTML Product Scraping to CSV (Offline Demo)
+MY ROLE: Python Data Processing & Automation Specialist
+
+PROJECT DESCRIPTION (paste into Upwork):
+Personal portfolio demonstration using fictional/synthetic data. Parse a purpose-built local product page with BeautifulSoup and export product records to a structured CSV.
+
+Verified results in this sample:
+4 fictional product cards extracted from bundled local HTML.
+
+Deliverables: Four-row CSV export.
+
+The GitHub repository includes the reproducible source code, sample inputs, processed outputs, before/after evidence image, and a PDF report. This is a personal sample project, not client work.
+
+SKILLS: Python, BeautifulSoup, Web Scraping, CSV
+
+GITHUB LINK: https://github.com/sarimarlina/python-web-scraping-demo
+(Only use this URL AFTER you have created and verified that the public repository exists.)
+
+FILES TO ATTACH IN UPWORK:
+1. portfolio_cover_pro.png (cover)
+2. screenshots/01_before_after.png (before and after)
+3. reports/project_evidence_report.pdf (PDF report)
+4. Relevant output CSV or PNG if Upwork accepts the file type.
